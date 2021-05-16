@@ -1,0 +1,9 @@
+
+.about {
+    flex-grow: 1;
+    text-align: center;
+  }
+  
+  .about h1 {
+    margin-bottom: 20px;
+  }
